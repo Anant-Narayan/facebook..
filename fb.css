@@ -5,7 +5,15 @@ body{
 .grid{
   display: grid;
   grid-template-columns: 5fr 1fr 1fr 1fr;
-  height: 28px;
+  height: 1fr;
+}
+
+@keyframes{
+  .grid{
+    display: grid;
+    grid-template-columns: 5fr 1fr 1fr 1fr;
+    height: 32px;
+  }
 }
 
 .grid div{
