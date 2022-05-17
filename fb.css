@@ -2,6 +2,7 @@ body{
   width: 100%;
   margin: 0;
   padding: 0;
+  font-size: 4vw;
 }
 
 .grid{
@@ -76,7 +77,7 @@ body{
 }
 
 #post{
-  height: 35px;
+  height: 8.75vw;
   align-items: center;
   margin-top: 5px;
   width: 98%;
@@ -111,7 +112,7 @@ body{
 iframe{
   margin-top: 5px;
   margin-left: 10px;
-  width: 400px;
+  width: 100vw;
   height: 167px;
   border: none;
 }
@@ -147,10 +148,12 @@ iframe{
   border-top: 8px solid lightgray;
   display: grid;
   grid-template-columns: 100%;
+  width: 100vw;
 }
 
 #a{
   height: 25vw;
+  width: 100vw;
   display: grid;
   grid-template-columns: 65px 265px 20px;
 }
@@ -207,8 +210,8 @@ iframe{
 }
 
 .react p{
-  margin-left: 50px;;
-  margin-top: 10px;
+  margin-left: 12.5vw;;
+  margin-top: 2.5vw;
 }
 
 #postlist{
