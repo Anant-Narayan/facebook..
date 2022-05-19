@@ -103,14 +103,14 @@ body{
 }
 
 #bold{
-  width: 96%%;
+  width: 96%;
   border: 3px solid lightgray;
   margin-top: 0;
   margin-bottom: 2px;
 }
 
 iframe{
-  margin-top: 5px;
+  margin-top: 10px;
   margin-left: 10px;
   width: 100vw;
   height: 167px;
